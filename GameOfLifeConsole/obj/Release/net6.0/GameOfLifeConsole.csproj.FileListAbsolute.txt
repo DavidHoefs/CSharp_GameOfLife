@@ -1,0 +1,14 @@
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeConsole\bin\Release\net6.0\GameOfLifeConsole.exe
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeConsole\bin\Release\net6.0\GameOfLifeConsole.deps.json
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeConsole\bin\Release\net6.0\GameOfLifeConsole.runtimeconfig.json
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeConsole\bin\Release\net6.0\GameOfLifeConsole.dll
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeConsole\bin\Release\net6.0\ref\GameOfLifeConsole.dll
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeConsole\bin\Release\net6.0\GameOfLifeConsole.pdb
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeConsole\obj\Release\net6.0\GameOfLifeConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeConsole\obj\Release\net6.0\GameOfLifeConsole.AssemblyInfoInputs.cache
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeConsole\obj\Release\net6.0\GameOfLifeConsole.AssemblyInfo.cs
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeConsole\obj\Release\net6.0\GameOfLifeConsole.csproj.CoreCompileInputs.cache
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeConsole\obj\Release\net6.0\GameOfLifeConsole.dll
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeConsole\obj\Release\net6.0\ref\GameOfLifeConsole.dll
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeConsole\obj\Release\net6.0\GameOfLifeConsole.pdb
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeConsole\obj\Release\net6.0\GameOfLifeConsole.genruntimeconfig.cache

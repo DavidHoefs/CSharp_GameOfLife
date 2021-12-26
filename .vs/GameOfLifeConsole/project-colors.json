@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e8862716-f58d-4b60-8c78-c6e05a618f0f": {
+      "ProjectGuid": "e8862716-f58d-4b60-8c78-c6e05a618f0f",
+      "DisplayName": "GameOfLifeConsole",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "4f2a59c0-8e75-40e1-a70a-0018762363d3": {
+      "ProjectGuid": "4f2a59c0-8e75-40e1-a70a-0018762363d3",
+      "DisplayName": "GameOfLifev2",
+      "ColorIndex": 1
+    },
+    "b74a5cb6-63f6-463e-96e6-b443fea42f97": {
+      "ProjectGuid": "b74a5cb6-63f6-463e-96e6-b443fea42f97",
+      "DisplayName": "GameOfLifev3",
+      "ColorIndex": 2
+    },
+    "23412fec-6ea3-4a84-b0ef-7f3859fc1090": {
+      "ProjectGuid": "23412fec-6ea3-4a84-b0ef-7f3859fc1090",
+      "DisplayName": "GameOfLifeParallel",
+      "ColorIndex": 3
+    },
+    "0ba3cf0b-2a10-4ea3-9d3e-e37e0ffed272": {
+      "ProjectGuid": "0ba3cf0b-2a10-4ea3-9d3e-e37e0ffed272",
+      "DisplayName": "GameOfLifeParallel_v2",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

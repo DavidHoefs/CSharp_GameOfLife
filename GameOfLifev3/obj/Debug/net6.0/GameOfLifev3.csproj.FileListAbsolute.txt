@@ -1,0 +1,15 @@
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifev3\bin\Debug\net6.0\GameOfLifev3.exe
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifev3\bin\Debug\net6.0\GameOfLifev3.deps.json
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifev3\bin\Debug\net6.0\GameOfLifev3.runtimeconfig.json
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifev3\bin\Debug\net6.0\GameOfLifev3.dll
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifev3\bin\Debug\net6.0\ref\GameOfLifev3.dll
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifev3\bin\Debug\net6.0\GameOfLifev3.pdb
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifev3\obj\Debug\net6.0\GameOfLifev3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifev3\obj\Debug\net6.0\GameOfLifev3.AssemblyInfoInputs.cache
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifev3\obj\Debug\net6.0\GameOfLifev3.AssemblyInfo.cs
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifev3\obj\Debug\net6.0\GameOfLifev3.csproj.CoreCompileInputs.cache
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifev3\obj\Debug\net6.0\GameOfLifev3.dll
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifev3\obj\Debug\net6.0\ref\GameOfLifev3.dll
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifev3\obj\Debug\net6.0\GameOfLifev3.pdb
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifev3\obj\Debug\net6.0\GameOfLifev3.genruntimeconfig.cache
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifev3\obj\Debug\net6.0\GameOfLifev3.csproj.AssemblyReference.cache

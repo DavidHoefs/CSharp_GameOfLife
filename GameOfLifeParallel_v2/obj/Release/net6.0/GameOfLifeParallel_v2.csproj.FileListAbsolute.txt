@@ -1,0 +1,14 @@
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeParallel_v2\bin\Release\net6.0\GameOfLifeParallel_v2.exe
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeParallel_v2\bin\Release\net6.0\GameOfLifeParallel_v2.deps.json
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeParallel_v2\bin\Release\net6.0\GameOfLifeParallel_v2.runtimeconfig.json
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeParallel_v2\bin\Release\net6.0\GameOfLifeParallel_v2.dll
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeParallel_v2\bin\Release\net6.0\ref\GameOfLifeParallel_v2.dll
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeParallel_v2\bin\Release\net6.0\GameOfLifeParallel_v2.pdb
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeParallel_v2\obj\Release\net6.0\GameOfLifeParallel_v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeParallel_v2\obj\Release\net6.0\GameOfLifeParallel_v2.AssemblyInfoInputs.cache
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeParallel_v2\obj\Release\net6.0\GameOfLifeParallel_v2.AssemblyInfo.cs
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeParallel_v2\obj\Release\net6.0\GameOfLifeParallel_v2.csproj.CoreCompileInputs.cache
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeParallel_v2\obj\Release\net6.0\GameOfLifeParallel_v2.dll
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeParallel_v2\obj\Release\net6.0\ref\GameOfLifeParallel_v2.dll
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeParallel_v2\obj\Release\net6.0\GameOfLifeParallel_v2.pdb
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeParallel_v2\obj\Release\net6.0\GameOfLifeParallel_v2.genruntimeconfig.cache
