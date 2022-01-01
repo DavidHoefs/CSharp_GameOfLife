@@ -108,7 +108,7 @@ List<List<Tuple<int, int>>> CheckCells(int x, int y, int[,] matrix)
 
 int iteration = 0;
 // read in file to matrix
-string inputFile = @"C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeConsole\100x100step.dat";
+string inputFile = @"C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifeConsole\1000x1000step.dat";
 FileHandler file = new("", "");
 int[,]? prevMatrix = null;
 int[] gameSize = file.GetSize(inputFile);
@@ -164,6 +164,6 @@ watch.Stop();
 
 Console.WriteLine("Final Iteration:");
 // print matrix
-file.PrintMatrixToConsole(gameMatrix);
+//file.PrintMatrixToConsole(gameMatrix);
 file.PrintMatrixToFile(gameMatrix);
 Console.WriteLine($"Execution Time: {watch.ElapsedMilliseconds} ms");

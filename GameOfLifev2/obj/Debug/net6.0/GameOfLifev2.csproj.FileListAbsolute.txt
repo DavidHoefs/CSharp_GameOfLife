@@ -12,4 +12,3 @@ C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifev2\obj\Debug\net6.
 C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifev2\obj\Debug\net6.0\ref\GameOfLifev2.dll
 C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifev2\obj\Debug\net6.0\GameOfLifev2.pdb
 C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifev2\obj\Debug\net6.0\GameOfLifev2.genruntimeconfig.cache
-C:\Users\David Hoefs\source\repos\GameOfLifeConsole\GameOfLifev2\obj\Debug\net6.0\GameOfLifev2.csproj.AssemblyReference.cache

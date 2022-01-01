@@ -30,7 +30,17 @@
       "ProjectGuid": "0ba3cf0b-2a10-4ea3-9d3e-e37e0ffed272",
       "DisplayName": "GameOfLifeParallel_v2",
       "ColorIndex": 4
+    },
+    "9c98db6e-270f-4400-96dc-1451226b35f1": {
+      "ProjectGuid": "9c98db6e-270f-4400-96dc-1451226b35f1",
+      "DisplayName": "GameOfLifeParallel_v3",
+      "ColorIndex": 5
+    },
+    "f483f3f5-3dbf-468d-b28c-666170ec8b3c": {
+      "ProjectGuid": "f483f3f5-3dbf-468d-b28c-666170ec8b3c",
+      "DisplayName": "ParallelGOL_v4",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 7
 }

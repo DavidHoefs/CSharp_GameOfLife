@@ -1,0 +1,15 @@
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\ParallelGOL_v4\bin\Release\net6.0\ParallelGOL_v4.exe
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\ParallelGOL_v4\bin\Release\net6.0\ParallelGOL_v4.deps.json
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\ParallelGOL_v4\bin\Release\net6.0\ParallelGOL_v4.runtimeconfig.json
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\ParallelGOL_v4\bin\Release\net6.0\ParallelGOL_v4.dll
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\ParallelGOL_v4\bin\Release\net6.0\ref\ParallelGOL_v4.dll
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\ParallelGOL_v4\bin\Release\net6.0\ParallelGOL_v4.pdb
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\ParallelGOL_v4\obj\Release\net6.0\ParallelGOL_v4.csproj.AssemblyReference.cache
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\ParallelGOL_v4\obj\Release\net6.0\ParallelGOL_v4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\ParallelGOL_v4\obj\Release\net6.0\ParallelGOL_v4.AssemblyInfoInputs.cache
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\ParallelGOL_v4\obj\Release\net6.0\ParallelGOL_v4.AssemblyInfo.cs
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\ParallelGOL_v4\obj\Release\net6.0\ParallelGOL_v4.csproj.CoreCompileInputs.cache
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\ParallelGOL_v4\obj\Release\net6.0\ParallelGOL_v4.dll
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\ParallelGOL_v4\obj\Release\net6.0\ref\ParallelGOL_v4.dll
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\ParallelGOL_v4\obj\Release\net6.0\ParallelGOL_v4.pdb
+C:\Users\David Hoefs\source\repos\GameOfLifeConsole\ParallelGOL_v4\obj\Release\net6.0\ParallelGOL_v4.genruntimeconfig.cache
